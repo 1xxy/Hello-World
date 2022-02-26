@@ -1,3 +1,2 @@
-# Hello-World
-just another repository
+# 单片机
 基于51单片机的门禁系统
